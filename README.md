@@ -32,3 +32,5 @@
  💞️ Venho colaborando com a comunidade de QA através das redes sociais.
  
 [Link do git](https://github.com/deborahmoura/reademe-comunidade-qa)
+
+p.s Uso mais o git da empresa.
