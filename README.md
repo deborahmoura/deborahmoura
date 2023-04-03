@@ -2,14 +2,20 @@
 
 
 - 👋 Olá sou Déborah Moura.
-- 👀 Sou da área de QA (Quality Assurance).
-- 🌱 Atualmente estou aprendendo automação de testes. 
+- 🐛 Sou da área de QA (Quality Assurance).
+- 💻 Atualmente venho melhorando meu skill em automação de testes de Api. 
+- 🎤 Criadora de Conteúdo digital (palestras, publicações, live stream, cursos)
+- 💬 Pergunte-me sobre qualquer coisa relacionada a estrategia de qualidade 
+- 🎆 Formada em matemática e pós graduada em gestão de qualidade de software
+- 👧 Mãe de Isis com 14 anos 
+- 🐶 tenho um cachorro snape ( sim amo a saga HP)
+
 
 <p align="left">
  💼 Ferramentas: - Jira (xray), notions, google, teams, slack, dbeaver, VSCode, robot(basico), selenium (basico), tosca, gitlab(basico), Trello, Postman, Confluence, cypress (intermediário).
 </p>
 <p align="left">
-Tecnologias: Sql, Java script (automaçao), json (automação), Rest, APIRestful
+🌟Tecnologias: Sql, Java script (automaçao), json (automação), Rest, APIRestful
 </p>
 
 <p align="left">
@@ -19,21 +25,11 @@ Tecnologias: Sql, Java script (automaçao), json (automação), Rest, APIRestful
 <p align="left">
  📫 Contatos ⤵️ 
   </p>
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:deborahmatematica@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deborahmouras" /></a>
-
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mundo_qa"/></a>
-</p>  
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/deborahmouras/) &nbsp;
+[![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/mundo_qa/) &nbsp;
 
 
  💞️ Venho colaborando com a comunidade de QA através das redes sociais.
  
-[Link do git](https://github.com/deborahmoura/reademe-comunidade-qa)
-
 p.s Uso mais o git da empresa.
