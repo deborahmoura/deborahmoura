@@ -6,7 +6,8 @@
 - 🌱 Atualmente estou aprendendo automação de testes. 
 
 <p align="left">
- 💼 Ferramentas: - Jira (xray), notions, google, teams, slack, dbeaver, VSCode, robot(basico), selenium (basico), tosca, gitlab(basico), Trello, 
+ 💼 Ferramentas: - Jira (xray), notions, google, teams, slack, dbeaver, VSCode, robot(basico), selenium (basico), tosca, gitlab(basico), Trello, Postman, Confluence, cypress (intermediário).
+ Tecnologias: Sql, Java script (automaçao), json (automação), Rest, APIRestful
 </p>
 
 <p align="left">
