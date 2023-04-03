@@ -7,11 +7,13 @@
 
 <p align="left">
  💼 Ferramentas: - Jira (xray), notions, google, teams, slack, dbeaver, VSCode, robot(basico), selenium (basico), tosca, gitlab(basico), Trello, Postman, Confluence, cypress (intermediário).
- Tecnologias: Sql, Java script (automaçao), json (automação), Rest, APIRestful
+</p>
+<p align="left">
+Tecnologias: Sql, Java script (automaçao), json (automação), Rest, APIRestful
 </p>
 
 <p align="left">
-🦄 Habilidades:  SCRUM, KABAN, BDD,criação de planos de teste, testes de aceitação, cenários de teste manual com base na documentação dos produtos,analise de requesito, figma, teste de aceitação, teste de desempenho, processo de teste e melhoria de qualidade, estratégia e melhoria de qualidade, planejamento de teste funcional, gestão de qualidade, melhoria de processos, garantia de qualidade, ferramentas agile ALM, documentação de evidências padronizadas, registro e monitoriamento de defeitos.
+🦄 Habilidades:  SCRUM, KABAN, BDD,criação de planos de teste, testes de aceitação, cenários de teste manual com base na documentação dos produtos,analise de requesito, figma, teste de aceitação, teste de desempenho, processo de teste e melhoria de qualidade, estratégia e melhoria de qualidade, planejamento de teste funcional, gestão de qualidade, melhoria de processos, garantia de qualidade, ferramentas agile ALM, documentação de evidências padronizadas, registro e monitoriamento de defeitos, shift-left, bugbash, smoke test.
 </p>
 
 <p align="left">
