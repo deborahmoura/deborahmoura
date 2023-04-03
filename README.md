@@ -12,10 +12,10 @@
 
 
 <p align="left">
- 💼 Ferramentas: - Jira (xray), notions, google, teams, slack, dbeaver, VSCode, robot(basico), selenium (basico), tosca, gitlab(basico), Trello, Postman, Confluence, cypress (intermediário).
+ 💼 Ferramentas: - Jira (xray), notions, google, teams, slack, dbeaver, VSCode, robot(basico), selenium (basico), tosca, gitlab(basico), Trello, Postman, Confluence, cypress (intermediário), github,git, windowns, Ios, Android, figma, monday, clikup, testlink.
 </p>
 <p align="left">
-🌟Tecnologias: Sql, Java script (automaçao), json (automação), Rest, APIRestful
+🌟Tecnologias: Sql, MySql, Java script (automaçao), json (automação), Rest, APIRestful, HTML, CSS. 
 </p>
 
 <p align="left">
